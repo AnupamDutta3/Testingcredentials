@@ -1,5 +1,4 @@
 node { 
-agent {
         label 'slave-2'
     }
     environment {
